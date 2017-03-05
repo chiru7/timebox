@@ -16,7 +16,10 @@
 .strong-pm
 coverage
 node_modules
+sh
+tmp
 npm-debug.log
 
 config/config.json
 logs/*
+migrations/*
